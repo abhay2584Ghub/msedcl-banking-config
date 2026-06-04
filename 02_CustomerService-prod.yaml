@@ -2,7 +2,7 @@
 build:
     version: "3.0"
 customer:
-    message: "Welcome to MSEDCL bank customer related REST API - PRODUCTION"
+    message: "Welcome to MSEDCL bank customer related REST API CUSTOMER - PRODUCTION"
     contactDetails:
         name: "Ajit"
         email: "ajit@msedcl.com"
