@@ -1,30 +1,3 @@
-spring:
-    application:
-        name: "03_AccountService"
-    datasource:
-        username: root
-        password: root123
-        url: jdbc:mysql://localhost:3306/accounts_db
-        driver-class-name: com.mysql.cj.jdbc.Driver
-    profiles:
-        active:
-            - "prod"
-    config:
-        import: "configserver:http://localhost:8787"
-        profiles:
-        active:
-            - "prod"
-springdoc:
-    api-docs:
-        enabled: false
-
-logging:
-    file:
-        name: logs/account.log
-
-server:
-    port: 8181
-
 #Custome Properties - User in application
 build:
     version: "4.0"
