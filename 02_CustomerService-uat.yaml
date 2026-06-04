@@ -18,7 +18,7 @@
 build:
     version: "3.0"
 customer:
-    message: "Welcome to MSEDCL bank customer related REST API - UAT"
+    message: "Welcome to MSEDCL bank customer related REST API CUSTOMER - UAT"
     contactDetails:
         name: "Ajay"
         email: "ajay@msedcl.com"
