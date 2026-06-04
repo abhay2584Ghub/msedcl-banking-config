@@ -1,0 +1,18 @@
+#Custome Properties - User in application
+build:
+    version: "4.0"
+accounts:
+    message: "Welcome to MSEDCL bank Account related REST API - UAT"
+    contactDetails:
+        name: "Sushil"
+        email: "sushil@msedcl.com"
+    onCallSupport:
+        - 1234567890
+        - 9876543210
+#spring.application.name=03_AccountService
+#spring.datasource.username=root
+#spring.datasource.password=root123
+#spring.datasource.url=jdbc:mysql://localhost:3306/accounts_db
+#spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+#logging.file.name=logs/account.log
+#server.port=8181
