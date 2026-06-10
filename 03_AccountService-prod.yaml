@@ -1,6 +1,6 @@
 #Custome Properties - User in application
-build:
-    version: "4.0"
+#build:
+#    version: "4.0"
 accounts:
     message: "Welcome to MSEDCL bank Account related REST API - PRODUCTION"
     contactDetails:
