@@ -15,8 +15,8 @@
 #    api-docs:
 #        enabled: false
 #Custome Properties - User in application
-build:
-    version: "3.0"
+#build:
+#    version: "3.0"
 customer:
     message: "Welcome to MSEDCL bank customer related REST API CUSTOMER - UAT"
     contactDetails:
